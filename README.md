@@ -2,7 +2,7 @@
 
 a passionate web developer and a tech enthusiastic from india. <br>
 graduated with a degree in Bachelor of Computer Science at [University Institute of Technology,Pirappancode]("#").<br>
-:mailbox: Reach me out!
+
 
 🔗 &nbsp;**Connect with me**
 
