@@ -32,4 +32,4 @@ I am passionate about Web Dev, Mainframe, & I enjoy learning new things explorin
   </p>
 </p>-->
 
-<img src="https://github.com/prejin2310/prejin2310/blob/1e1804caf9405ea8d1d995b5163bbdaffb87763d/readme/b-layer.png" alt="bottom">
+<img src="https://github.com/prejin2310/prejin2310/blob/a8c11538b6d180a6234ba4a5b5dbd466b94a7ab0/readme/bottom.png" alt="bottom">
