@@ -25,11 +25,6 @@ I am passionate about Web Dev, Mainframe, & I enjoy learning new things explorin
     <a href="https://prejinpr.me" alt="My site"><img src="https://github.com/prejin2310/prejin2310/blob/1e1804caf9405ea8d1d995b5163bbdaffb87763d/readme/external-link-line.svg"></a>
   </p>
 
-  <!--<p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=prejin2310.prejin2310">
-    </a>
-  </p>
-</p>-->
+
 
 
